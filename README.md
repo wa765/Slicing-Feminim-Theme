@@ -10,3 +10,4 @@
 
 - Note : baru kebuat hero 1 
 - link preview : https://focused-nightingale-71b4ac.netlify.app/
+- If you like it , give me a star :)
