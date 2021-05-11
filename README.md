@@ -4,7 +4,7 @@
 
 - HTML 
 - CSS
-- Boostrap
+- Boostrap 4.6
 - Javascript
 - Jquery 
 
