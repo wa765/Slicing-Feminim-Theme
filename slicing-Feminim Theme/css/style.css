@@ -20,7 +20,7 @@
 /* bagian hero 1 */
 
 .name {
-    margin-top: 1em;
+    margin-top: 1.2em;
     color: var(--text);
     font-size: 28px;
     letter-spacing: 0.05em;
@@ -58,7 +58,8 @@
 }
 
 .hero1 {
-    width: 350px;
+    width: 100%;
+    margin-left: -5px;
 }
 
 
@@ -145,10 +146,10 @@
     /* bagian hero 1 */
     .name {
         color: var(--text);
-        font-size: 32px;
+        font-size: 35px;
         letter-spacing: 0.05em;
         font-weight: bold;
-        margin-top: 0px;
+        margin-top: 20px;
     }
     .text,
     .text2 {
@@ -176,7 +177,8 @@
         box-shadow: none;
     }
     .hero1 {
-        width: 360px;
+        width: 100%;
+        margin-left: 0px;
     }
     /* bob hover icon */
     @-webkit-keyframes bob-on-hover {
@@ -288,6 +290,7 @@
     }
     .hero1 {
         width: 360px;
+        margin-left: -20px;
     }
     /* bob hover icon */
     @-webkit-keyframes bob-on-hover {
@@ -399,6 +402,7 @@
     }
     .hero1 {
         width: 610px;
+        margin-left: 0px;
     }
     /* bob hover icon */
     @-webkit-keyframes bob-on-hover {
