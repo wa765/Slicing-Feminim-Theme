@@ -470,4 +470,30 @@
         -webkit-animation-direction: normal, alternate;
         animation-direction: normal, alternate;
     }
+    /* bagian hero 2 */
+    .hero2 {
+        width: 449px;
+        height: 660px;
+    }
+    .heading {
+        color: var(--pink);
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .big-heading {
+        color: var(--text);
+        font-size: 46px;
+        letter-spacing: 0.05em;
+        font-weight: bold;
+    }
+    /* bagian bar */
+    .text-bar {
+        font-size: 18px;
+        letter-spacing: 0.03em;
+        color: #000;
+    }
+    .progress-bar {
+        background: var(--pink);
+        border-radius: 20px;
+    }
 }
